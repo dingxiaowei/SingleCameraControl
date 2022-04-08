@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: db40aedd4f6dfa44795bc781dcca4ad9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bip001
+  - first:
+      1: 100002
+    second: Bip001 Footsteps
+  - first:
+      1: 100004
+    second: Bip001 Head
+  - first:
+      1: 100006
+    second: Bip001 HeadNub
+  - first:
+      1: 100008
+    second: Bip001 L Calf
+  - first:
+      1: 100010
+    second: Bip001 L Clavicle
+  - first:
+      1: 100012
+    second: Bip001 L Finger0
+  - first:
+      1: 100014
+    second: Bip001 L Finger01
+  - first:
+      1: 100016
+    second: Bip001 L Finger0Nub
+  - first:
+      1: 100018
+    second: Bip001 L Finger1
+  - first:
+      1: 100020
+    second: Bip001 L Finger11
+  - first:
+      1: 100022
+    second: Bip001 L Finger1Nub
+  - first:
+      1: 100024
+    second: Bip001 L Finger2
+  - first:
+      1: 100026
+    second: Bip001 L Finger21
+  - first:
+      1: 100028
+    second: Bip001 L Finger2Nub
+  - first:
+      1: 100030
+    second: Bip001 L Foot
+  - first:
+      1: 100032
+    second: Bip001 L Forearm
+  - first:
+      1: 100034
+    second: Bip001 L Hand
+  - first:
+      1: 100036
+    second: Bip001 L Thigh
+  - first:
+      1: 100038
+    second: Bip001 L Toe0
+  - first:
+      1: 100040
+    second: Bip001 L Toe0Nub
+  - first:
+      1: 100042
+    second: Bip001 L UpperArm
+  - first:
+      1: 100044
+    second: Bip001 Neck
+  - first:
+      1: 100046
+    second: Bip001 Pelvis
+  - first:
+      1: 100048
+    second: Bip001 Ponytail1
+  - first:
+      1: 100050
+    second: Bip001 Ponytail11
+  - first:
+      1: 100052
+    second: Bip001 Ponytail12
+  - first:
+      1: 100054
+    second: Bip001 Ponytail1Nub
+  - first:
+      1: 100056
+    second: Bip001 Prop1
+  - first:
+      1: 100058
+    second: Bip001 R Calf
+  - first:
+      1: 100060
+    second: Bip001 R Clavicle
+  - first:
+      1: 100062
+    second: Bip001 R Finger0
+  - first:
+      1: 100064
+    second: Bip001 R Finger01
+  - first:
+      1: 100066
+    second: Bip001 R Finger0Nub
+  - first:
+      1: 100068
+    second: Bip001 R Finger1
+  - first:
+      1: 100070
+    second: Bip001 R Finger11
+  - first:
+      1: 100072
+    second: Bip001 R Finger1Nub
+  - first:
+      1: 100074
+    second: Bip001 R Finger2
+  - first:
+      1: 100076
+    second: Bip001 R Finger21
+  - first:
+      1: 100078
+    second: Bip001 R Finger2Nub
+  - first:
+      1: 100080
+    second: Bip001 R Foot
+  - first:
+      1: 100082
+    second: Bip001 R Forearm
+  - first:
+      1: 100084
+    second: Bip001 R Hand
+  - first:
+      1: 100086
+    second: Bip001 R Thigh
+  - first:
+      1: 100088
+    second: Bip001 R Toe0
+  - first:
+      1: 100090
+    second: Bip001 R Toe0Nub
+  - first:
+      1: 100092
+    second: Bip001 R UpperArm
+  - first:
+      1: 100094
+    second: Bip001 Spine
+  - first:
+      1: 100096
+    second: Bip001 Spine1
+  - first:
+      1: 100098
+    second: Bip001 Spine2
+  - first:
+      1: 100100
+    second: Bip001 Tail
+  - first:
+      1: 100102
+    second: Bip001 Tail1
+  - first:
+      1: 100104
+    second: Bip001 Tail2
+  - first:
+      1: 100106
+    second: Bip001 TailNub
+  - first:
+      1: 100108
+    second: //RootNode
+  - first:
+      1: 100110
+    second: headusOBJexport008
+  - first:
+      1: 100112
+    second: headusOBJexport009
+  - first:
+      1: 100114
+    second: L_side01
+  - first:
+      1: 100116
+    second: L_side02
+  - first:
+      1: 100118
+    second: L_side03
+  - first:
+      1: 100120
+    second: L_side_end
+  - first:
+      1: 100122
+    second: Object001
+  - first:
+      1: 100124
+    second: Particle VADSiew 01
+  - first:
+      1: 100126
+    second: Particle VieADw 01
+  - first:
+      1: 100128
+    second: Particle VieDSw 01
+  - first:
+      1: 100130
+    second: Particle View 01
+  - first:
+      1: 100132
+    second: Particle View 01 1
+  - first:
+      1: 100134
+    second: Particle View 01 2
+  - first:
+      1: 100136
+    second: Particle View 01 3
+  - first:
+      1: 100138
+    second: Particle View 0ASD1
+  - first:
+      1: 100140
+    second: R_side01
+  - first:
+      1: 100142
+    second: R_side02
+  - first:
+      1: 100144
+    second: R_side03
+  - first:
+      1: 100146
+    second: R_side_end
+  - first:
+      4: 400000
+    second: Bip001
+  - first:
+      4: 400002
+    second: Bip001 Footsteps
+  - first:
+      4: 400004
+    second: Bip001 Head
+  - first:
+      4: 400006
+    second: Bip001 HeadNub
+  - first:
+      4: 400008
+    second: Bip001 L Calf
+  - first:
+      4: 400010
+    second: Bip001 L Clavicle
+  - first:
+      4: 400012
+    second: Bip001 L Finger0
+  - first:
+      4: 400014
+    second: Bip001 L Finger01
+  - first:
+      4: 400016
+    second: Bip001 L Finger0Nub
+  - first:
+      4: 400018
+    second: Bip001 L Finger1
+  - first:
+      4: 400020
+    second: Bip001 L Finger11
+  - first:
+      4: 400022
+    second: Bip001 L Finger1Nub
+  - first:
+      4: 400024
+    second: Bip001 L Finger2
+  - first:
+      4: 400026
+    second: Bip001 L Finger21
+  - first:
+      4: 400028
+    second: Bip001 L Finger2Nub
+  - first:
+      4: 400030
+    second: Bip001 L Foot
+  - first:
+      4: 400032
+    second: Bip001 L Forearm
+  - first:
+      4: 400034
+    second: Bip001 L Hand
+  - first:
+      4: 400036
+    second: Bip001 L Thigh
+  - first:
+      4: 400038
+    second: Bip001 L Toe0
+  - first:
+      4: 400040
+    second: Bip001 L Toe0Nub
+  - first:
+      4: 400042
+    second: Bip001 L UpperArm
+  - first:
+      4: 400044
+    second: Bip001 Neck
+  - first:
+      4: 400046
+    second: Bip001 Pelvis
+  - first:
+      4: 400048
+    second: Bip001 Ponytail1
+  - first:
+      4: 400050
+    second: Bip001 Ponytail11
+  - first:
+      4: 400052
+    second: Bip001 Ponytail12
+  - first:
+      4: 400054
+    second: Bip001 Ponytail1Nub
+  - first:
+      4: 400056
+    second: Bip001 Prop1
+  - first:
+      4: 400058
+    second: Bip001 R Calf
+  - first:
+      4: 400060
+    second: Bip001 R Clavicle
+  - first:
+      4: 400062
+    second: Bip001 R Finger0
+  - first:
+      4: 400064
+    second: Bip001 R Finger01
+  - first:
+      4: 400066
+    second: Bip001 R Finger0Nub
+  - first:
+      4: 400068
+    second: Bip001 R Finger1
+  - first:
+      4: 400070
+    second: Bip001 R Finger11
+  - first:
+      4: 400072
+    second: Bip001 R Finger1Nub
+  - first:
+      4: 400074
+    second: Bip001 R Finger2
+  - first:
+      4: 400076
+    second: Bip001 R Finger21
+  - first:
+      4: 400078
+    second: Bip001 R Finger2Nub
+  - first:
+      4: 400080
+    second: Bip001 R Foot
+  - first:
+      4: 400082
+    second: Bip001 R Forearm
+  - first:
+      4: 400084
+    second: Bip001 R Hand
+  - first:
+      4: 400086
+    second: Bip001 R Thigh
+  - first:
+      4: 400088
+    second: Bip001 R Toe0
+  - first:
+      4: 400090
+    second: Bip001 R Toe0Nub
+  - first:
+      4: 400092
+    second: Bip001 R UpperArm
+  - first:
+      4: 400094
+    second: Bip001 Spine
+  - first:
+      4: 400096
+    second: Bip001 Spine1
+  - first:
+      4: 400098
+    second: Bip001 Spine2
+  - first:
+      4: 400100
+    second: Bip001 Tail
+  - first:
+      4: 400102
+    second: Bip001 Tail1
+  - first:
+      4: 400104
+    second: Bip001 Tail2
+  - first:
+      4: 400106
+    second: Bip001 TailNub
+  - first:
+      4: 400108
+    second: //RootNode
+  - first:
+      4: 400110
+    second: headusOBJexport008
+  - first:
+      4: 400112
+    second: headusOBJexport009
+  - first:
+      4: 400114
+    second: L_side01
+  - first:
+      4: 400116
+    second: L_side02
+  - first:
+      4: 400118
+    second: L_side03
+  - first:
+      4: 400120
+    second: L_side_end
+  - first:
+      4: 400122
+    second: Object001
+  - first:
+      4: 400124
+    second: Particle VADSiew 01
+  - first:
+      4: 400126
+    second: Particle VieADw 01
+  - first:
+      4: 400128
+    second: Particle VieDSw 01
+  - first:
+      4: 400130
+    second: Particle View 01
+  - first:
+      4: 400132
+    second: Particle View 01 1
+  - first:
+      4: 400134
+    second: Particle View 01 2
+  - first:
+      4: 400136
+    second: Particle View 01 3
+  - first:
+      4: 400138
+    second: Particle View 0ASD1
+  - first:
+      4: 400140
+    second: R_side01
+  - first:
+      4: 400142
+    second: R_side02
+  - first:
+      4: 400144
+    second: R_side03
+  - first:
+      4: 400146
+    second: R_side_end
+  - first:
+      43: 4300000
+    second: headusOBJexport008
+  - first:
+      43: 4300002
+    second: Object001
+  - first:
+      43: 4300004
+    second: headusOBJexport009
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: headusOBJexport008
+  - first:
+      137: 13700002
+    second: headusOBJexport009
+  - first:
+      137: 13700004
+    second: Object001
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 032c77bbc733b554dbdb01b54294e9e2
+  - b6b0a949c887efe48adaf6e3bfcd570f
+  - 4489a1e5887e763489a277708dbeb4f0
+  - ae0baa29fe52f834998a68edb77c2690
+  - 0c2f53eee4d58614f8e0f04273fe5ad7
+  - 0ca31bcb801c709439eb59c2f8496bb5
+  - d00823c9845880f47a0e21f7b110a3a1
+  - 5e0a9a3e1215f344ebd1e03e83be62fa
+  - fbe47d3b359212d4bb0513aee5d4ffce
+  - a2f6f824f65f32d4297a3ec90f714424
+  - 36ea96fcdcff1974ea517efe19713b28
+  - d0344b2c5eaa51249892e06245810537
+  - 3c781c240b425e048aebb2486eb9c2bb
+  - 1b8727b32a423e64a8962b395bfecc15
+  - 486bf572edacd1c4ead451e98ce8e1df
+  - 5901f05c0982e0e46a7e467a4fcb1351
+  - f8617ff9c2c7c1a49aab39a9945d90ad
+  - 80e1697efc05da0459b589eaa8b0d834
+  - 70f7a0bd607a9b54aa5112c636c695d2
+  - 203729cadb1b806489e81f0d47ccb18d
+  - 7fe7fb69b72be3644bb88b9c03d0fbd2
+  - 9854a8dc1e453f04ea9b9ff1c95c23ea
+  - a4867808c62813f4d95ca64859149307
+  - 3485f7fb033b1ba4fac0682ce3ed04ea
+  - fc768f280184f1046b33cfa9a1222370
+  - db899a830b174bd4faf2b3496021e86d
+  - 09c073dcc0c0de149935455211d3fc1e
+  - 0727bf9eac9d5ce4abc49ec2d2bdcd77
+  - 6f7c68c2e63dbbb4eb1f4339b4b922b6
+  - 7eb78071f3d3dc941ac39e46f7269478
+  - 092f38b80762dbf499dc284a496dbd33
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
